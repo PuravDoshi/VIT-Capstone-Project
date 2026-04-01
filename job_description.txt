@@ -1,0 +1,24 @@
+Key Responsibilities:
+
+1. Design and implement scalable machine learning solutions aligned with product and business objectives.
+2. Develop, test, and optimize ML models for deployment in production environments.
+3. Contribute to the development of Generative AI features such as conversational interfaces and personalization modules.
+4. Monitor performance of deployed models and iterate to improve accuracy, latency, and user experience
+Follow best practices in model development, experimentation, and deployment.
+
+Required Skills and Experience:
+
+1. 1-2 years of experience in applied machine learning and model deployment
+2. Implement ML systems using both classical ML algorithms (e.g., XGBoost, Random Forests, SVMs) and GenAI techniques (LLMs, VAEs, GANs).
+3. Proficiency in Python and commonly used ML frameworks (e.g., PyTorch, TensorFlow, Hugging Face)
+4. Experience building and deploying models using cloud services (AWS, GCP, or Azure)
+5. Strong grasp of ML pipelines, feature engineering, and basic MLOps practices
+6. Ability to work collaboratively and communicate technical concepts clearly
+7. Experience contributing to production-level ML solutions that deliver measurable value
+
+Preferred Qualifications:
+
+1. Master's degree in Computer Science, Machine Learning, or related discipline
+2. Exposure to fintech or financial services domain is a plus
+3. Familiarity with recommendation engines or personalization techniques
+4. Contributions to open-source ML projects or community
