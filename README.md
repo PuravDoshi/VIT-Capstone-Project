@@ -132,21 +132,21 @@ Structured scoring + feedback for interview
 
 ---
 
-## 📌 Future Improvements
+## Future Improvements
 
-- 🎤 Voice-based interview
-- 📊 Dashboard analytics for recruiters
-- 🌐 Deployment (AWS / GCP)
-- 🧠 Fine-tuned LLM for hiring-specific evaluation
+- Voice-based interview
+- Dashboard analytics for recruiters
+- Deployment (AWS / GCP)
+- Fine-tuned LLM for hiring-specific evaluation
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 **Purav Doshi**
 
 ---
 
-## ⭐ If you like this project
+## If you like this project
 
 Give it a ⭐ on GitHub and consider building on top of it!
